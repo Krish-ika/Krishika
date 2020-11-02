@@ -1,5 +1,5 @@
 # Krishika
-Todays Workshop
+Logo's
 
 
 ![macds logo](https://user-images.githubusercontent.com/71530338/97819785-960f7b80-1c5f-11eb-9f35-8cefc759f192.png)
